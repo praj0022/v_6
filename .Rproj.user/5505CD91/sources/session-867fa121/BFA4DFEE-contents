@@ -6,4 +6,10 @@ editor: visual
 ---
 
 # Introduction 
+<<<<<<< HEAD
  new information to create conflict
+=======
+Adding some information 
+
+# Section 
+>>>>>>> testbranch
